@@ -1,2 +1,2 @@
-# api-book-part-three
-Source code for Part 3 of Hands on APIs for AI and Data Science
+# Kansas City Book Launch
+Sharing some of the skills you'll learn in Hands-on APIs for AI and Data Science
