@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 #exclude log files
 logs/
+
+.DS_Store
