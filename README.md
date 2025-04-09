@@ -44,23 +44,3 @@ A must-see if you're exploring generative AI, reasoning agents, or tool-using LL
 
 📂 Folder: [`/ai_agent`](./ai_agent)
 
----
-
-## 📚 Audience
-
-This repository is curated for:
-
-- Practicing data scientists and ML engineers  
-- Python developers working with APIs and model inference  
-- Members of the **Data Science KC** community  
-- Anyone looking to deepen their understanding of modern data infrastructure
-
----
-
-## 🧭 Getting Started
-
-Clone the repository and explore each directory:
-
-```bash
-git clone https://github.com/your-username/data-science-kc-examples.git
-cd data-science-kc-examples
