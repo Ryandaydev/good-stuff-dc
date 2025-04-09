@@ -1,12 +1,6 @@
 # 📊 Data Science KC – Code Examples
 
-Welcome to the official code examples repository for **Data Science KC**! This repository provides hands-on, production-oriented Python projects that illustrate practical techniques in API design, model deployment, and agentic AI workflows. These examples are built to reflect modern, real-world data science challenges.
-
----
-
-## 🚀 What's Inside?
-
-This repository contains three focused, high-impact skills designed to elevate your capabilities as a data scientist or ML engineer:
+Code exammples from Data Science KC in April 2025.
 
 ---
 
