@@ -1,6 +1,6 @@
-# 📊 Data Science KC – Code Examples
+# 📊 Data Science DC – Code Examples
 
-Code exammples from Data Science KC in April 2025.
+Code exammples from Data Science DC in May  2025.
 
 ---
 
