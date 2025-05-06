@@ -5,7 +5,7 @@ This is the python SDK to to interact with the SportsWorldCentral Football API, 
 
 To install this SDK in your environment, execute the following command:
 
-`pip install swcpy@git+https://github.com/{owner of repo}/portfolio-project#subdirectory=sdk`
+`pip install swcpy@git+https://github.com/Ryandaydev/good-stuff-dc#subdirectory=sdk`
 
 ## Example Usage
 
