@@ -7,18 +7,17 @@ To install this SDK in your environment, execute the following command:
 
 `pip install swcpy@git+https://github.com/Ryandaydev/good-stuff-dc#subdirectory=sdk`
 
+## Running the API
+
+To use the SDK, you can run the API in the ```/api``` folder. 
+
+
 ## Example Usage
 
 This SDK implements all the endpoints in the SWC API, in addition to providing bulk downloads of the SWC fantasy data in CSV format.
 
 ### Setting base URL for the API
-The SDK looks for a value of `SWC_API_BASE_URL` in the environment. The preferred method for setting the base URL for the SWC API is by creating a Python `.env` file in your project directory with the following value:
-
-```
-SWC_API_BASE_URL={URL of your API}
-```
-
-You may also set this value as an environment variable in the environment you are using the SDK, or pass it as a parameter to the `SWCConfig()` method.
+Capture the URL of the API running in this environment and pass it as a parameter to the `SWCConfig()` method.
 
 
 ### Example of normal API functions
