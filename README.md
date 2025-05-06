@@ -4,6 +4,13 @@ Code exammples from Data Science DC in May  2025.
 
 ---
 
+### Baseline API (`/api`)
+
+**Run this API** to provide data to the lessons 
+
+- ✅ **FastAPI** framework written in Python
+- 🔁 **SQLite3** database for sample data
+
 ### 🛠 Skill 1 – Create a Python SDK (`/sdk`)
 
 **Develop a Python SDK** to interface with your FastAPI-based API. This example demonstrates:
